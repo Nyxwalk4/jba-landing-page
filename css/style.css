@@ -19,6 +19,11 @@
     padding: 0;
 }
 
+html, body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
+
 html {
     scroll-behavior: smooth;
 }
@@ -33,8 +38,9 @@ body {
 
 /* Container */
 .container {
-  width: 90%;          
+  width: 100%;          
   max-width: 1200px;
+  padding: 0px 16px;
   margin: 0 auto;      
 }
 
@@ -668,13 +674,13 @@ footer {
   padding: 20px 15px;
     }
     .hero-grid, .faq-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: 2, 1fr;
     }
     .features-grid, .testimonials-grid {
-        grid-template-columns: 1fr;
+        grid-template-columns: 2, 1fr;
     }
     .hero-title {
-        font-size: 36px;
+        font-size: 26px;
     }
     .nav-links {
         display: none;
