@@ -2,7 +2,6 @@
 Prototype Responsive landing page for Japanese Base Academy (JBA) built with HTML5, CSS3, and vanilla JavaScript
 
 Fitur Utama & UX
-* **Responsive Layout**: Tampilan adaptif untuk berbagai ukuran layar (Desktop, Tablet, dan Smartphone) 
 * **Interactive FAQ Accordion**: Fitur tanya-jawab yang dapat di-klik buka/tutup secara halus
 * **Mobile Navigation Toggle**: Menu navigasi *hamburger* khusus untuk pengguna perangkat mobile
 * **Testimonial Dots Pagination**: Fitur visual untuk memilih ulasan pengguna yang disorot
